@@ -1,0 +1,7 @@
+{
+  "name": "Mondimpianti Magazino_Supabase",
+  "description": "Sistema professionale per il tracciamento inventario Mondimpianti, con gestione DDT e storico movimenti.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
